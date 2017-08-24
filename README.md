@@ -1,6 +1,6 @@
 # ChineseName
 
-[![Build Status](https://travis-ci.org/graysonchen/chinese_name.svg?branch=master)](https://travis-ci.org/graysonchen/chinese_name)
+[![Build Status](https://travis-ci.org/graysonchen/chinese_name.svg?branch=master)](https://travis-ci.org/graysonchen/chinese_name) [![AwesomeCode Status for GraysonBot/chinese_name](https://awesomecode.io/projects/a8f5d60b-d80e-4288-bd5d-5e49c1357b0a/status)](https://awesomecode.io/projects/25)
 
 Generate a Random Chinese Name
 
